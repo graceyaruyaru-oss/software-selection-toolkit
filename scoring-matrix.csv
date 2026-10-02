@@ -1,0 +1,7 @@
+Lens,Weight (%),What a 5 looks like,What a 1 looks like,Vendor A,Vendor B,Vendor C,Notes
+Data flow,30,"Orders, shipments and invoices move automatically with no re-keying; errors are flagged before they reach accounting","Manual exports or re-keying needed; errors found only at month end",,,,
+Functionality,20,"Covers every current customer requirement plus the ones on the roadmap","Missing one or more must-haves",,,,
+Implementation approach,15,"Vendor-led setup, clear timeline, testing with real transactions before go-live","Self-serve setup with no testing support",,,,
+Cost (3-year total),20,"Lowest total cost including setup, per-transaction fees and support","Highest total cost or unclear pricing",,,,
+Operational fit,15,"Matches how the warehouse and accounting teams already work; little retraining","Forces new workarounds onto daily work",,,,
+Weighted score,100,"Sum of (weight x score) / 100",,,,,
